@@ -1,2 +1,3 @@
 # learngit
-my first repository
+
+网易云课堂昵称：Kongbai丶
